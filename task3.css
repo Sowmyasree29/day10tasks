@@ -1,0 +1,31 @@
+.main{
+    border:2px solid black;
+    height:500px;
+    width:200px;
+    border-radius:20%;
+    background-color:black;
+}
+.first{
+    border:2px solid red;
+    height:100px;
+    border-radius:50%;
+    width:120px;
+    margin:35px;
+    background-color:red;
+}
+.second{
+    border:2px solid yellow;
+    height:100px;
+    border-radius:50%;
+    width:120px;
+    margin:35px;
+    background-color:yellow;
+}
+.third{
+    border:2px solid green;
+    height:100px;
+    background-color:green;
+    border-radius:50%;
+    width:120px;
+    margin:35px;
+}
